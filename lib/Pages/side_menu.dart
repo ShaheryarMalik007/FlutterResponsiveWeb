@@ -26,7 +26,7 @@ class SideMenu extends StatelessWidget {
             children: [
               Row(
                 children: [
-                  Text("Muhammad ",style: GoogleFonts.aBeeZee().copyWith(fontWeight: FontWeight.bold),),
+                  Text("Muhammad",style: GoogleFonts.aBeeZee().copyWith(fontWeight: FontWeight.bold),),
                   Text(" Shaheryar"),
                   const Spacer(),
                   // We don't want to show this close button on Desktop mood
